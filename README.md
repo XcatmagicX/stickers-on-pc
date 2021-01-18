@@ -6,3 +6,5 @@ how to use:
 2) click on your mouse wheel to delete the sticker 
 3) you can also change his size if you are on bottom right and hold the left mouse button
 4) also you can move the sticker (it might be not comfortable to mark some of the text because of that)
+
+and also sorry if you seeing the code and there is no comment for help D;
